@@ -3,7 +3,6 @@ System
 | ---- | ----------- | --- | :-: | ----: | -------: | ----: | -------------------: |
 | Genuine LSI 6Gbps SAS HBA LSI 9201-8i (=9211-8i) P20 IT Mode ZFS TrueNAS unRAID | HBA card gives x8 SATA connections via SAS cable | [Ebay](https://www.ebay.com/itm/162958581156?epid=1037286617&itmmeta=01KECWC3TT86NQYTQ9HEB789N6&hash=item25f1169da4:g:3lsAAeSw7CppAZd-) | 1 | USD$59.50 | USD$27.12 | USD$86.62 | CAD$119.90 |
 | Cable Matters Internal Mini SAS to SATA Cable 3.3 Feet (SFF-8087 to SATA Forward Breakout) | SFF-8087 mini 1x SAS to 4x SATA | [Amzn](https://www.amazon.ca/dp/B012BPLYJC?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2 | CAD$19.99 | $0 | CAD$39.98 | CAD$39.98 |
-
 | ASUS PRIME B550M-A AC w/ DDR4-4866 (O.C), Dual M.2 Slots, 7.1 Audio, Gigabit LAN, Wi-Fi 802.11ac, Bluetooth 5.0, Black | motherboard | [MemX](https://www.memoryexpress.com/Products/MX00129955) | 1 | CAD$149.99 | $0 | CAD$149.99 | CAD$149.99 |
 | AMD Ryzen™ 5 5500GT Processor, 3.6GHz w/ Radeon™ Graphics, 6 Cores / 12 Threads | CPU /w gfx | [MemX](https://www.memoryexpress.com/Products/MX00128451) | 1 | CAD$169.99 | $0 | CAD$169.99 | CAD$169.99 |
 | Vengeance LPX 8GB DDR4 2400MHz CL14 Dual Channel Kit (2 x 4GB), Black | 8GB RAM | [MemX](https://www.memoryexpress.com/Products/MX57069) | 1 | CAD$64.99 | $0 | CAD$64.99 | CAD$64.99 |
